@@ -51,7 +51,7 @@ The script accepts the following command-line arguments:
 ### Example Command
 
 ```bash
-python main.py --query "CC(=O)OC1=CC=CC=C1C(=O)O" --sdf "data/myfile.sdf" --conformers 10 --run_name "my_run" --top 100
+python main.py --query "CC(=O)OC1=CC=CC=C1C(=O)O" --sdf "data/myfile.sdf" --conformers 10 --run_name "aspirin" --top 100
 ```
 
 This command will:
